@@ -1,7 +1,7 @@
 # Adaptive Multi-Cell Battery Intelligence Engine
 
 ## Overview
-This project implements a production-grade Battery Intelligence Engine using Arduino Uno and Wokwi simulation for monitoring a 4-cell lithium battery pack in real time.
+This project implements a Battery Intelligence Engine using Arduino Uno and Wokwi simulation for monitoring a 4-cell lithium battery pack in real time.
 
 ## Features
 - Individual cell voltage monitoring
